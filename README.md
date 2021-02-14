@@ -18,4 +18,4 @@ run json server
 
 `npm run server` server run at localhost:5000
 
-Screenshot:https://github.com/KAPIL-JHALANI/Task-Manager-React/blob/main/task.png
+![task](https://user-images.githubusercontent.com/43183113/107876239-cadfcf80-6eea-11eb-893b-78f4ce989f81.png)
